@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "task": "study 2hr",
+    "completed": true,
+    "created": "2026-05-31T15:31:44.090738"
+  },
+  {
+    "id": 2,
+    "task": "study",
+    "completed": false,
+    "created": "2026-05-31T15:36:15.783697"
+  }
+]
